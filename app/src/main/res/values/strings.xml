@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bplayer</string>
+    <string name="title_Fav">Favourites</string>
+    <string name="title_play">Now Playing</string>
+</resources>
